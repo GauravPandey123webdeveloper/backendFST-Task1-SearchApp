@@ -8,16 +8,11 @@ Create a Node.js application that enables users to search for books and movies a
 
 ### Book Search
 
-Users can search for books by providing query parameters:
-- `/books?author=authorName`: Search for books by a specific author.
-- `/books?category=categoryName`: Search for books in a specific category.
-- `/books?name=bookName`: Search for a book by its name.
+Users can search for books by book name only
 
 ### Movie Search
 
-Users can search for movies by providing path parameters:
-- `/movies?director=directorname`: Search for movies directed by a specific director.
-- `/movies?genre=genre`: Search for movies in a specific genre.
+Users can search for movies by movie name only
 
 ## Arrays
 
