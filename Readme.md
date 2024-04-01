@@ -292,16 +292,17 @@ const movies = [
 
 ### Book Search
 
-- Search for books by author:
-  - `GET /books?author=J.K. Rowling`
-- Search for books by category:
-  - `GET /books?category=Fantasy`
+- Search for books
+- ![image](https://github.com/GauravPandey123webdeveloper/backendFST-Task1-SearchApp/assets/130306260/bee09eea-4569-42b7-a609-3a4acdb36572)
+
 - Search for a book by name:
-  - `GET /books?name=The Great Gatsby`
+- ![image](https://github.com/GauravPandey123webdeveloper/backendFST-Task1-SearchApp/assets/130306260/0f387d04-7d91-4674-8b4d-5299b504faa4)
 
 ### Movie Search
 
+- Search for movies:
+- ![image](https://github.com/GauravPandey123webdeveloper/backendFST-Task1-SearchApp/assets/130306260/1a2cb342-6343-4450-a073-4af307ea472c)
 - Search for movies by movie name:
-  - ![image](https://github.com/GauravPandey123webdeveloper/backendFST-Task1-SearchApp/assets/130306260/e6f62075-decf-49f0-a1b1-bbc49c117b9b)
+- ![image](https://github.com/GauravPandey123webdeveloper/backendFST-Task1-SearchApp/assets/130306260/e6f62075-decf-49f0-a1b1-bbc49c117b9b)
 
 
