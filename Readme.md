@@ -301,8 +301,7 @@ const movies = [
 
 ### Movie Search
 
-- Search for movies by director:
-  - `GET /movies?director=Christopher Nolan`
-- Search for movies by genre:
-  - `GET /movies?genre=Action`
+- Search for movies by movie name:
+  - ![image](https://github.com/GauravPandey123webdeveloper/backendFST-Task1-SearchApp/assets/130306260/e6f62075-decf-49f0-a1b1-bbc49c117b9b)
+
 
